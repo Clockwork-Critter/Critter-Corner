@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://clockwork-critter.github.io/Critter-Corner/'
 languageCode = 'en-us'
 title = 'Critter Corner'
 theme = 'PaperMod'
