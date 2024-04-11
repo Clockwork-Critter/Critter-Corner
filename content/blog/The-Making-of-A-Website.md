@@ -3,20 +3,15 @@ title = 'The Making of a Website'
 date = 2024-04-11T08:54:04-04:00
 draft = true
 +++
-# The Making of A Website
-* * *
-
-* * *
-
-# Websites and Social Media
+### Websites and Social Media
 
 In the early days of the internet, years before I would use it at all, it was commonplace to have personal websites. Then I am told came social media sites. They provided an easier way to get your thoughts out into the world. No code, markup, or page design is needed; just write and get directly to sharing. This came with a big boom in popularity for the internet in general as well as these sites in particular; to not use them was to become irrelevant, at least in the eyes of the net. The biggest social media platforms have user counts in the tens and sometimes even hundreds of millions, using their platforms to broadcast their ideas every day. That's a lot of posts. In fact, according to [InternetLiveStats](https://www.internetlivestats.com/one-second/#tweets-band) twitter sees 6,000 tweets a second. There of course, comes a new problem. In fact, I'd call this the modern problem. There is so much of everyone's thoughts that everything becomes ephemeral; even when posts stay up for long periods of time, they are functionally "gone," or better to say irrelevant, within a day. This is unless you have either a large amount of money or insight into a sizeable chunk of the userbase. Sense we are presumably possessed by neither our options for cataloging our thoughts despite the best efforts of many are to be irrelevant with the affordances of either social media or those of a website.
 
-# The Affordances of Social Media
+### The Affordances of Social Media
 
 It is reasonable to assume that because this is written on a website that I am against social media but this is not so. In fact on my main page I have several social media pages. Social media has the advantage of allowing people to share content with friends and share a uniform experience with other users. Social media is at it’s best when it allows people to share small portions of their work, short thoughts or experiences with other people, especially fast moving things like status updates or project announcements. I use social media to get updates from artists,tech projects, and personal friends. I also use it to discuss interests of mine with other like minded individuals. Social media is at its best when it is used as a connective medium, it isn’t for creating a repository of thoughts as much as it is to connect people with each other.
 
-# The Affordances of a Website
+### The Affordances of a Website
 
 So, when does one want to make a website. Well a personal website is static. As long as it is maintained it provides the same content to each visitor. This means that is a better storage medium for thoughts and opinions, especially longer form ones. This was one of the major objectives for making this websites. As I progress to my professional life, and work through my academic life, I find myself with more thoughts in need of an outlet. The static nature of a website of this nature is ideal for this because it allows me to look and refer back to these thoughts as needed. In contrast, things like reach and allowing others to comment on site are less important and thus social media is less appropriate.
 

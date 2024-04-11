@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on My New Hugo Site</title>
+    <title>Blogs on Critter Corner</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Blogs on My New Hugo Site</description>
+    <description>Recent content in Blogs on Critter Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Apr 2024 08:54:04 -0400</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/blog/the-making-of-a-website/</link>
       <pubDate>Thu, 11 Apr 2024 08:54:04 -0400</pubDate>
       <guid>http://localhost:1313/blog/the-making-of-a-website/</guid>
-      <description>The Making of A Website Websites and Social Media In the early days of the internet, years before I would use it at all, it was commonplace to have personal websites. Then I am told came social media sites. They provided an easier way to get your thoughts out into the world. No code, markup, or page design is needed; just write and get directly to sharing. This came with a big boom in popularity for the internet in general as well as these sites in particular; to not use them was to become irrelevant, at least in the eyes of the net.</description>
+      <description>Websites and Social Media In the early days of the internet, years before I would use it at all, it was commonplace to have personal websites. Then I am told came social media sites. They provided an easier way to get your thoughts out into the world. No code, markup, or page design is needed; just write and get directly to sharing. This came with a big boom in popularity for the internet in general as well as these sites in particular; to not use them was to become irrelevant, at least in the eyes of the net.</description>
     </item>
   </channel>
 </rss>
