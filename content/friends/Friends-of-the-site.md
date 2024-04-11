@@ -1,5 +1,6 @@
 +++
 title = 'Friends of the Site'
+description = 'A list of friends to the site.'
 +++
 That's right! Despite all odds I do indeed have friends. Here's a bit about them:
 

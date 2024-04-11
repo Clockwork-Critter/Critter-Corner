@@ -1,6 +1,7 @@
 +++
 title = 'The Making of a Website'
 date = 2024-04-11T08:54:04-04:00
+description = 'An explanation of why and how Critter Corner was made.'
 +++
 ### Websites and Social Media
 
