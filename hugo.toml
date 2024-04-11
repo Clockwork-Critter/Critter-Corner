@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Critter Corner'
+theme = 'PaperMod'
+
+[[menu.main]]
+identifier = "Blog"
+name = "Blog"
+url = "/blog/"
+weight = 10
+
+[[menu.main]]
+identifier = "Resources"
+name = "Resources"
+url = "/Resources/"
+weight = 20
+
+
