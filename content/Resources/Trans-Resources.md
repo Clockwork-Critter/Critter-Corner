@@ -3,9 +3,8 @@ title = 'Trans Resources'
 date = 2024-04-11T09:08:03-04:00
 draft = true
 +++
-# General Resources
+## General Resources
 --------------------------------------------------------------------------------------------
-
 These resources cover a lot of ground. They don't focus on one thing, or they deal with more general concerns.
 
 *   [LGBT Near Me](https://www.lgbtnearme.org/)
@@ -36,7 +35,7 @@ These resources cover a lot of ground. They don't focus on one thing, or they de
 
     * A book that walks through getting an apartment, working with management, and fixing issues that come up, written by a trans women with an emphasis on challenges faced by minorities
 
-# Medical Resources
+## Medical Resources
 --------------------------------------------------------------------------------------------
 
 These resources help connect trans people with the health care they need.
@@ -81,9 +80,8 @@ These resources help connect trans people with the health care they need.
 
     * A website that allows comparative shopping for medications.
 
-# Surgical Resources
+## Surgical Resources
 ----------------------------------------------------------------------------------------------
-
 Provides resources for transgender people connecting to surgical healthcare. Inclusion is not endorsement of surgical performance.
 
 *   [Phallo.net](https://www.phallo.net/)
@@ -118,7 +116,7 @@ Provides resources for transgender people connecting to surgical healthcare. Inc
 
     * Provides instructions for care of trans masculine people after top surgery.
 
-Funding Resources
+## Funding Resources
 --------------------------------------------------------------------------------------------
 
 Transition can be expensive.To help those who can't afford it, these organizations help people access gender affirming care.
@@ -147,7 +145,7 @@ Transition can be expensive.To help those who can't afford it, these organizatio
 
     * Fund to help trans people access gender affirming care and legal resources of various types that they otherwise could not afford.
 
-# Voice Training
+## Voice Training Resources
 --------------------------------------------------------------------------------------
 
 Find your authentic voice with these resources for vocal training.
@@ -176,7 +174,7 @@ Find your authentic voice with these resources for vocal training.
 
     * A collaborative wiki for explaining voice training concepts.
 
-# Style and Hair Removal
+## Style and Hair Removal Resources
 ------------------------------------------------------------------------------------------------------
 
 Making adjustments to your style can be overwhelming. Here are some resources to help!
@@ -213,7 +211,7 @@ Making adjustments to your style can be overwhelming. Here are some resources to
 
     * A guide on how to do makeup from a professional artist, covers picking products and fundamental techniques.
 
-# Trans Sex Education
+## Trans Sex Education Resources
 ------------------------------------------------------------------------------------------------
 
 A cause close to my heart. Taking ownership of your sexuality is a daunting task, especially for transgender people. These resources can help you navigate your own unique sexuality. Some content may be 18+, please follow site policy and local laws.
