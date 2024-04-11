@@ -19,6 +19,6 @@ That's right! Despite all odds I do indeed have friends. Here's a bit about them
 
     * Heli is a Programmer, Fellow Furry and Linux Enthusiast. His easygoing, friendly, and humorous demeanor en_deer_s him to everyone nearby. Developer of [Warehouse](https://github.com/flattool/warehouse)
 
-*   [Runarcn](https://runarcn.no/)
+*   [Runarcn](https://runarcn.bearblog.dev)
 
     * FOSS advocate, Musician, and Cryptographer-in-training. Runarcn is an insightful presence, with a great sense of humor, who enhances every conversation he enters. Also handles the vital duty of occasionally sending me capybara images.
