@@ -24,7 +24,7 @@ url = "https://matrix.to/#/@starsung_syndicate:possum.city"
 
 [[params.socialIcons]]
 name = "email"
-url = "clockwork-critter.cassette539@silomails.com"
+url = "mailto:clockwork-critter.cassette539@silomails.com"
 
 [[menu.main]]
 identifier = "Blog"
