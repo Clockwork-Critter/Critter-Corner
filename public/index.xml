@@ -6,7 +6,35 @@
     <description>Recent content on Critter Corner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 09:08:03 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trans Resources</title>
+      <link>http://localhost:1313/resources/trans-resources/</link>
+      <pubDate>Thu, 11 Apr 2024 09:08:03 -0400</pubDate>
+      <guid>http://localhost:1313/resources/trans-resources/</guid>
+      <description>General Resources These resources cover a lot of ground. They don&amp;rsquo;t focus on one thing, or they deal with more general concerns.
+LGBT Near Me
+This site helps you locate Trans and other Queer resources in your area. That&amp;rsquo;s Gender Dysphoria FYI
+This resource is aimed at questioning trans folks. Does a good job providing an inside look at the trans experience. Transfem Science
+Provides good summaries of the scientific literature concerning MTF transitions.</description>
+    </item>
+    <item>
+      <title>The Making of a Website</title>
+      <link>http://localhost:1313/blog/the-making-of-a-website/</link>
+      <pubDate>Thu, 11 Apr 2024 08:54:04 -0400</pubDate>
+      <guid>http://localhost:1313/blog/the-making-of-a-website/</guid>
+      <description>Websites and Social Media In the early days of the internet, years before I would use it at all, it was commonplace to have personal websites. Then I am told came social media sites. They provided an easier way to get your thoughts out into the world. No code, markup, or page design is needed; just write and get directly to sharing. This came with a big boom in popularity for the internet in general as well as these sites in particular; to not use them was to become irrelevant, at least in the eyes of the net.</description>
+    </item>
+    <item>
+      <title>Friends of the Site</title>
+      <link>http://localhost:1313/friends/friends-of-the-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/friends/friends-of-the-site/</guid>
+      <description>That&amp;rsquo;s right! Despite all odds I do indeed have friends. Here&amp;rsquo;s a bit about them:
+Xenia
+Xenia is a Programmer for Crystal Linux. Her sense of humor, good natured personality, and willingness to help others uplift any community she is a part of. Eris
+Polymath, Musician, Programmer, Activist, and Retro Technology Enthusiast. Eris brings knowledge, passion, and a unique sense of humor to any subject she encounters. It is impossible to be friends with Eris for long without learning something.</description>
+    </item>
   </channel>
 </rss>

@@ -1,16 +1,6 @@
 +++
-title = ''
-date = 2024-04-11T09:00:49-04:00
-draft = true
+title = 'Friends of the Site'
 +++
-# About Me!
----------
-
-Hi there! I go by the Clockwork Critter online though you can call me whatever you'd like, I use she/her and it/its pronouns. I am a Linux Enthusiast, Furry, and Aspiring Data Scientist. I enjoy learning about technology, statistics and data science, and digital privacy. I also enjoy humor and thinking about what makes a joke work. This website is dedicated to journaling my thoughts as I try finding my place in both the tech industry and the wider world as well as collecting resourses that help marginalized people navigate their challenges.
-
-# Friends of the site
----------
-
 That's right! Despite all odds I do indeed have friends. Here's a bit about them:
 
 *   [Xenia](https://axtlos.neocities.org/)
