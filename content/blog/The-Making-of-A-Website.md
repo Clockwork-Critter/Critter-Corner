@@ -1,7 +1,6 @@
 +++
 title = 'The Making of a Website'
 date = 2024-04-11T08:54:04-04:00
-draft = true
 +++
 ### Websites and Social Media
 
@@ -18,3 +17,7 @@ So, when does one want to make a website. Well a personal website is static. As 
 ### How the Site was Made and Why
 
 This website is hosted on [Neocities](https://neocities.org/) and created directly in HTML and CSS. To make new pages and test layout changes I use [Visual Studio Codium](https://vscodium.com/), a free software build of VSCode with the telemetry removed with the extension [Five Server](https://github.com/yandeu/five-server) to let me make live changes and see the results instantly. With plenty of simpler options, like wordpress, why make a website this way? Well, its because as an information sciences student having a variety of skills is useful. This site serves as an excuse to learn HTML and CSS, and it allows me to practice self teaching complex technical skills, a meta skill that is very important for a fast paced environment like the tech industry.
+
+### How the Site was Made and Why (Redux)
+
+Recently I made the decision to change the site building process from my own HTML and CSS to Hugo, a static site generator. This enables much faster website creation and makes it easier for me to correctly group content. This new version of the site will be hosted on a static web host, likley GitHub Pages, and given it's own custom domain (which unlike neocities, github offers the use of custom domains for free.)
