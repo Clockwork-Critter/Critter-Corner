@@ -4,7 +4,8 @@ title = 'Critter Corner'
 theme = 'PaperMod'
 [params]
   mainSections = ['friends']
-   Description = "The personal website of Clockwork Critter. Contains a blog, a compendium of resources and other projects"
+  Description = "The personal website of Clockwork Critter. Contains a blog, a compendium of resources and other projects"
+  env = "production"
 
 [params.homeInfoParams]
 Title = "About Me"
