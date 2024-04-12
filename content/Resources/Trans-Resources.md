@@ -11,6 +11,9 @@ These resources cover a lot of ground. They don't focus on one thing, or they de
 
     * This site helps you locate Trans and other Queer resources in your area.
 
+*   [The National Center for Transgender Equality](https://transequality.org)
+    * This site contains information on name and gender changes by state as well as other important information about rights and the navigation of various structures, such as insurance.
+
 *   [That's Gender Dysphoria FYI](https://genderdysphoria.fyi/)
 
     * This resource is aimed at questioning trans folks. Does a good job providing an inside look at the trans experience.
@@ -47,10 +50,6 @@ These resources help connect trans people with the health care they need.
 *   [TransHealthcare.org](https://www.transhealthcare.org/)
 
     * A website for finding Surgeons to perform a variety of surgeries for trans people.
-
-*   [TransHealthProject.org](https://transhealthproject.org/)
-
-    * A resource for navigating insurance barriers to gender affirming care.
 
 *   [Gender Affirmative Letter Access Project](https://thegalap.org/)
 
@@ -120,6 +119,10 @@ Provides resources for transgender people connecting to surgical healthcare. Inc
 --------------------------------------------------------------------------------------------
 
 Transition can be expensive.To help those who can't afford it, these organizations help people access gender affirming care.
+
+*   [TransHealthProject.org](https://transhealthproject.org/)
+
+    * A resource for navigating insurance barriers to gender affirming care.
 
 *   [Plume HRT Access Fund](https://getplume.co/hrt-access-fund/)
 
