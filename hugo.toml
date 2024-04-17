@@ -9,7 +9,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
 Title = "About Me"
-Content = "Hi there! I go by the Clockwork Critter online though you can call me whatever you’d like, I use she/her and it/its pronouns. I am a Linux Enthusiast, Furry, and Aspiring Data Scientist. I enjoy learning about technology, statistics and data science, and digital privacy. I also enjoy humor and thinking about what makes a joke work. This website is dedicated to journaling my thoughts as I try finding my place in both the tech industry and the wider world as well as collecting resourses that help marginalized people navigate their challenges."
+Content = "Hi there! I go by the Clockwork Critter online though you can call me whatever you’d like, I use she/her and it/its pronouns. I am a Linux Enthusiast, Furry, and Aspiring Data Scientist. I enjoy learning about technology, statistics and data science, and digital privacy. I also enjoy humor and thinking about what makes a joke work. This website is dedicated to journaling my thoughts as I try finding my place in both the tech industry and the wider world as well as collecting resources that help marginalized people navigate their challenges."
 
 [[params.socialIcons]]
 name = "github"
@@ -21,7 +21,7 @@ url = "https://bark.lgbt/@Starsung_Syndicate"
 
 [[params.socialIcons]]
 name = "matrix"
-url = "https://matrix.to/#/@starsung_syndicate:possum.city"
+url = "https://matrix.to/#/@clockwork_critter:matrix.org"
 
 [[params.socialIcons]]
 name = "email"
