@@ -42,5 +42,5 @@ weight = 20
 [[menu.main]]
 identifier = "Worldbeast"
 name = "Worldbeast"
-url = "/worldbeast/"
+url = "/worldbeast pages/"
 weight = 30
