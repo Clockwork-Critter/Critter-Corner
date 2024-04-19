@@ -38,3 +38,9 @@ identifier = "Resources"
 name = "Resources"
 url = "/resources/"
 weight = 20
+
+[[menu.main]]
+identifier = "Worldbeast"
+name = "Worldbeast"
+url = "/worldbeast/"
+weight = 30
