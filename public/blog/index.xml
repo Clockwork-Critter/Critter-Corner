@@ -6,8 +6,15 @@
     <description>Recent content in Blogs on Critter Corner</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Apr 2024 08:54:04 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 07:59:46 -0400</lastBuildDate>
     <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choosing a Username</title>
+      <link>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</link>
+      <pubDate>Mon, 22 Apr 2024 07:59:46 -0400</pubDate>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</guid>
+      <description>How the current username was chosen. Will be updated as usernames change.</description>
+    </item>
     <item>
       <title>The Making of a Website</title>
       <link>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</link>
