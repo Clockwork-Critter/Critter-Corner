@@ -2,6 +2,7 @@
 title = 'Cosmology, Mythology, and Rules'
 date = 2024-04-25T05:23:16-04:00
 description = 'Explains the workings of the Worldbeast magic and divinity systems as well as some narrative rules'
+weight = 2
 +++
 ## Cosmology
 Before the beginning, there was nothing. In the very center of nothing, was everything. Everything opened its singular eye and beheld its opposite. It was a mighty creature and within itself it contained every variation of every single possible moment, all at once. It was the mighty Worldbeast. But after aeons of staring into the nothingness, its eye became bloodshot and the first crimson flower of madness began to bloom. In its fury eternity clawed at itself, finally tearing its eye asunder and fashioning the first god out of its most desperate wish, that it, and every creature would one day die. The first god, the god of death took pity and struck, ending the life of the worldbeast. The nothing seeped into the gash in the corpse and ate every continuum except one. Thus it became that reality collapsed into a singular existence, moving forward an instant at a time.
