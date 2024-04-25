@@ -18,7 +18,7 @@ That's right! Despite all odds I do indeed have friends. Here's a bit about them
     
 *   [Heli](https://heliguy.neocities.org/)
 
-    * Heli is a Programmer, Fellow Furry and Linux Enthusiast. His easygoing, friendly, and humorous demeanor en_deer_s him to everyone nearby. Developer of [Warehouse](https://github.com/flattool/warehouse)
+    * Heli is a Programmer, Fellow Furry and Linux Enthusiast. His easygoing, friendly, and humorous demeanor en*deer*s him to everyone nearby. Developer of [Warehouse](https://github.com/flattool/warehouse)
 
 *   [Runarcn](https://runarcn.bearblog.dev)
 
