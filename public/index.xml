@@ -6,7 +6,7 @@
     <description>Recent content on Critter Corner</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Apr 2024 07:59:46 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 05:23:16 -0400</lastBuildDate>
     <atom:link href="https://clockwork-critter.github.io/Critter-Corner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Worldbeast</title>
@@ -14,6 +14,13 @@
       <pubDate>Fri, 19 Apr 2024 15:34:38 -0400</pubDate>
       <guid>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/about-worldbeast/</guid>
       <description>A description of the Worldbeast writing project</description>
+    </item>
+    <item>
+      <title>Cosmology, Mythology, and Rules</title>
+      <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
+      <pubDate>Thu, 25 Apr 2024 05:23:16 -0400</pubDate>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
+      <description>Explains the workings of the Worldbeast magic and divinity systems as well as some narrative rules</description>
     </item>
     <item>
       <title>Choosing a Username</title>
