@@ -19,8 +19,8 @@ In modern times it is understood that the practice of magic, the wielding of in-
 
 Like in human bodies, the decaying of the worldbeast creates gasses. But unlike humans the worldbeast’s corpse creates beautiful music. The majority of people can not hear it, however those with significant insight or power can almost make out the melody. Only those lost to madness or about to die can hear the lyrics.
 
-## Rules and Guidelines
-Like most settings, the worldbeast follows some general narrative rules for every story set inside it. Think of them as world axioms.
+## Worldbeast Axioms
+Like most settings, the worldbeast follows some general narrative rules for every story set inside it. 
 1. The world is an overwhelmingly dangerous place, the more you understand about it, the more you understand how fragile and insignificant you are.
 2. Mind control or other methods of mental coercion do not work. Every person in the worldbeast must make their own decisions, for better or worse.
 3. Every character will inevitably die. Resurrection is not possible, though things like litchdom are.
