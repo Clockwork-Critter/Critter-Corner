@@ -44,3 +44,11 @@ identifier = "Worldbeast"
 name = "Worldbeast"
 url = "/worldbeast pages/"
 weight = 30
+[[menu.main]]
+identifier = "Search"
+name = "Search"
+url = "/search/"
+weight = 40
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
