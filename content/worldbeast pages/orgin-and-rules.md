@@ -22,7 +22,7 @@ Like in human bodies, the decaying of the worldbeast creates gasses. But unlike 
 ## Worldbeast Axioms
 Like most settings, the worldbeast follows some general narrative rules for every story set inside it. 
 1. The world is an overwhelmingly dangerous place, the more you understand about it, the more you understand how fragile and insignificant you are.
-2. Mind control or other methods of mental coercion do not work. Every person in the worldbeast must make their own decisions, for better or worse.
+2. Mind control and other magical methods of mental coercion do not work. Every person in the worldbeast must make their own decisions, for better or worse.
 3. Every character will inevitably die. Resurrection is not possible, though things like litchdom are.
 4. Acts of in-potentia are inherently dangerous. There is no such thing as a safe spell or a sane magi.
 5. Insight is the seeing of things that are real and true or could become so. If they are not, then it is not insight.
