@@ -2,11 +2,11 @@
 title = 'Friends of the Site'
 description = 'A list of friends to the site.'
 +++
-That's right! Despite all odds I do indeed have friends. Here's a bit about them:
+That's right! Despite all odds, I do indeed have friends. Here's a bit about them:
 
 *   [Xenia](https://axtlos.neocities.org/)
 
-    * Xenia is a Programmer for Crystal Linux. Her sense of humor, good natured personality, and willingness to help others uplift any community she is a part of.
+    * Xenia is a Programmer for Crystal Linux. Her sense of humor, good-natured personality, and willingness to help others uplift any community she is a part of.
 
 *   [Eris](https://eris.gay/)
 

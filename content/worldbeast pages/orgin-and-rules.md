@@ -5,7 +5,7 @@ description = 'Explains the workings of the Worldbeast magic and divinity system
 weight = 2
 +++
 ## Cosmology
-Before the beginning, there was nothing. In the very center of nothing, was everything. Everything opened its singular eye and beheld its opposite. It was a mighty creature and within itself it contained every variation of every single possible moment, all at once. It was the mighty Worldbeast. But after aeons of staring into the nothingness, its eye became bloodshot and the first crimson flower of madness began to bloom. In its fury eternity clawed at itself, finally tearing its eye asunder and fashioning the first god out of its most desperate wish, that it, and every creature would one day die. The first god, the god of death took pity and struck, ending the life of the worldbeast. The nothing seeped into the gash in the corpse and ate every continuum except one. Thus it became that reality collapsed into a singular existence, moving forward an instant at a time.
+Before the beginning, there was nothing. In the very center of nothing, was everything. Everything opened its singular eye and beheld its opposite. It was a mighty creature and within itself, it contained every variation of every single possible moment, all at once. It was the mighty Worldbeast. But after eons of staring into the nothingness, its eye became bloodshot and the first crimson flower of madness began to bloom. In its fury eternity clawed at itself, finally tearing its eye asunder and fashioning the first god out of its most desperate wish, that it and every creature would one day die. The first god, the god of death took pity and struck, ending the life of the worldbeast. The nothing seeped into the gash in the corpse and ate every continuum except one. Thus it became that reality collapsed into a singular existence, moving forward an instant at a time.
 
 Over the centuries life evolved. As souls went through countless animalistic lives, they began to become sentient, and when they were severed from their forms they would cycle anew to the next form. But this was not without consequence, for a soul cast asunder will always seek the strongest source of power, and no power in all the lands can equal that of the discarded iris of the worldbeast, known as the iris of eternity. As the souls of the many races began to flow through the iris they left groves in the shape of their greatest feelings. Their fear, their hopes, and their desires. The weight of their narratives. Thus it became so that the godhead was formed, creating a pantheon of creatures embodying the strongest passions of the living. Each one of these creatures, termed gods, devils, and fae possess the infinite power of the iris, but can only act in accordance with the stories and ideas that spawned them.
 
@@ -17,7 +17,7 @@ For a time, this was good, but then the first of the mages entered the throne ro
 
 In modern times it is understood that the practice of magic, the wielding of in-potentia is a part of the world. Mages receive training, and often call forth mundane materials for the townspeople, shaping the economy of modern societies. The mages are taught the magi’s virtues: Insight or the ability to understand the world and figure out how to pull what’s needed from in-potentia, Power or the ability to pull large objects or significant powers from the void, and fortitude or the ability to withstand the effects of magic on your mind and body.
 
-Like in human bodies, the decaying of the worldbeast creates gasses. But unlike humans the worldbeast’s corpse creates beautiful music. The majority of people can not hear it, however those with significant insight or power can almost make out the melody. Only those lost to madness or about to die can hear the lyrics.
+Like in human bodies, the decaying of the worldbeast creates gasses. But unlike humans, the worldbeast’s corpse creates beautiful music. The majority of people can not hear it, however those with significant insight or power can almost make out the melody. Only those lost to madness or about to die can hear the lyrics.
 
 ## Worldbeast Axioms
 Like most settings, the worldbeast follows some general narrative rules for every story set inside it. 
@@ -26,8 +26,8 @@ Like most settings, the worldbeast follows some general narrative rules for ever
 3. Every character will inevitably die. Resurrection is not possible, though things like litchdom are.
 4. Acts of in-potentia are inherently dangerous. There is no such thing as a safe spell or a sane magi.
 5. Insight is the seeing of things that are real and true or could become so. If they are not, then it is not insight.
-6. Gods in any form are dangerous and fickle, and the powers they offer have domain related downsides. A fire god will offer powers that will burn the user if they are not careful for example. 
-7. Saints are self destructive and unstable. There is no such thing as a truly useful saint.
-8. In-potentia requires training, it can not be used on instinct, though it can be guided or directed in it's raw state inside someone.
+6. Gods in any form are dangerous and fickle, and the powers they offer have domain-related downsides. A fire god will offer powers that will burn the user if they are not careful for example. 
+7. Saints are self-destructive and unstable. There is no such thing as a truly useful saint.
+8. In-potentia requires training, it can not be used on instinct, though it can be guided or directed in its raw state inside someone.
 8. The god of death is never met and never speaks.
 9. Eyes, music, and stories are important symbology and are never invoked lightly.
