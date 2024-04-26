@@ -12,7 +12,7 @@ That's right! Despite all odds, I do indeed have friends. Here's a bit about the
 
     * Polymath, Musician, Programmer, Activist, and Retro Technology Enthusiast. Eris brings knowledge, passion, and a unique sense of humor to any subject she encounters. It is impossible to be friends with Eris for long without learning something.
 
-*   [Zoey](https://zoeytheratspage.neocities.org/)
+*   [Zoey](https://zoey.blahaj.land)
     
     * Zoey is a warm and kind soul, who feels deeply and inspires others with her sense of humor and comradery. They are an absolute joy to be around.
     
