@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Worldbeast Pages on Critter Corner</title>
-    <link>http://localhost:1313/Critter-Corner/worldbeast-pages/</link>
+    <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/</link>
     <description>Recent content in Worldbeast Pages on Critter Corner</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <copyright>This work is licensed under CC BY-SA 4.0</copyright>
     <lastBuildDate>Thu, 25 Apr 2024 05:23:16 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/Critter-Corner/worldbeast-pages/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Worldbeast</title>
-      <link>http://localhost:1313/Critter-Corner/worldbeast-pages/about-worldbeast/</link>
-      <pubDate>Fri, 19 Apr 2024 15:34:38 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/worldbeast-pages/about-worldbeast/</guid>
-      <description>A description of the Worldbeast writing project</description>
-    </item>
+    <atom:link href="https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosmology, Mythology, and Rules</title>
-      <link>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
       <pubDate>Thu, 25 Apr 2024 05:23:16 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
       <description>Explains the workings of the Worldbeast magic and divinity systems as well as some narrative rules</description>
     </item>
   </channel>

@@ -2,53 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Critter Corner</title>
-    <link>http://localhost:1313/Critter-Corner/</link>
+    <link>https://clockwork-critter.github.io/Critter-Corner/</link>
     <description>Recent content on Critter Corner</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <copyright>This work is licensed under CC BY-SA 4.0</copyright>
     <lastBuildDate>Thu, 25 Apr 2024 05:23:16 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/Critter-Corner/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Worldbeast</title>
-      <link>http://localhost:1313/Critter-Corner/worldbeast-pages/about-worldbeast/</link>
-      <pubDate>Fri, 19 Apr 2024 15:34:38 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/worldbeast-pages/about-worldbeast/</guid>
-      <description>A description of the Worldbeast writing project</description>
-    </item>
+    <atom:link href="https://clockwork-critter.github.io/Critter-Corner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosmology, Mythology, and Rules</title>
-      <link>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
       <pubDate>Thu, 25 Apr 2024 05:23:16 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
       <description>Explains the workings of the Worldbeast magic and divinity systems as well as some narrative rules</description>
     </item>
     <item>
       <title>Choosing a Username</title>
-      <link>http://localhost:1313/Critter-Corner/blog/choosing-a-username/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</link>
       <pubDate>Mon, 22 Apr 2024 07:59:46 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/blog/choosing-a-username/</guid>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</guid>
       <description>How the current username was chosen. Will be updated as usernames change.</description>
     </item>
     <item>
       <title>Trans Resources</title>
-      <link>http://localhost:1313/Critter-Corner/resources/trans-resources/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</link>
       <pubDate>Thu, 11 Apr 2024 09:08:03 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/resources/trans-resources/</guid>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</guid>
       <description>A list of helpful resources to help transgender people navigate issues that they commonly face.</description>
     </item>
     <item>
       <title>The Making of a Website</title>
-      <link>http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</link>
       <pubDate>Thu, 11 Apr 2024 08:54:04 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/</guid>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</guid>
       <description>An explanation of why and how Critter Corner was made.</description>
     </item>
     <item>
       <title>Friends of the Site</title>
-      <link>http://localhost:1313/Critter-Corner/friends/friends-of-the-site/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/friends/friends-of-the-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/friends/friends-of-the-site/</guid>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/friends/friends-of-the-site/</guid>
       <description>A list of friends to the site.</description>
     </item>
   </channel>

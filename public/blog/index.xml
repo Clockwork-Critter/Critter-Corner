@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Critter Corner</title>
-    <link>http://localhost:1313/Critter-Corner/blog/</link>
+    <link>https://clockwork-critter.github.io/Critter-Corner/blog/</link>
     <description>Recent content in Blogs on Critter Corner</description>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <copyright>This work is licensed under CC BY-SA 4.0</copyright>
     <lastBuildDate>Mon, 22 Apr 2024 07:59:46 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/Critter-Corner/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Choosing a Username</title>
-      <link>http://localhost:1313/Critter-Corner/blog/choosing-a-username/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</link>
       <pubDate>Mon, 22 Apr 2024 07:59:46 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/blog/choosing-a-username/</guid>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</guid>
       <description>How the current username was chosen. Will be updated as usernames change.</description>
     </item>
     <item>
       <title>The Making of a Website</title>
-      <link>http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</link>
       <pubDate>Thu, 11 Apr 2024 08:54:04 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/</guid>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</guid>
       <description>An explanation of why and how Critter Corner was made.</description>
     </item>
   </channel>
