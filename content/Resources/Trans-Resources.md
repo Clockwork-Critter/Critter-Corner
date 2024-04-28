@@ -99,7 +99,9 @@ Provides resources for transgender people connecting to surgical healthcare. Inc
 
     * Provides the most detailed overview of Gender Nullification Surgery. Contains some graphic medical photos.
 
-*   [AMAB-to-neutrois GRS]Provides a first-person account of Gender Nullification Surgery.
+*   [AMAB-to-neutrois GRS](https://beesbuzz.biz/articles/5195-nullification-surgery)
+
+    * Provides a first-person account of Gender Nullification Surgery.
 
 *   [How To Treat Top Surgery Scars (According To Science!) | FTMFAQ](https://youtu.be/3u0Icd2BW7o?si=xqcxKvgKfwxLy3Ev)
 
