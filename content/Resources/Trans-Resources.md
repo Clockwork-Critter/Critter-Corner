@@ -204,7 +204,7 @@ Making adjustments to your style can be overwhelming. Here are some resources to
 
 *   [Leaf Shave](https://leafshave.com/)
 
-    * A hybrid between a cartridge razor and a safety razor. My weapon of choice.
+    * A hybrid between a cartridge razor and a safety razor. Interesting additional option for those looking to combine the advantages of both types.
 
 *   [How to Epilate](https://www.healthline.com/health/epilator#how-to-use)
 
