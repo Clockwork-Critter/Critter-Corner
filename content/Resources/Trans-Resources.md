@@ -111,7 +111,7 @@ Provides resources for transgender people connecting to surgical healthcare. Inc
 
     * Provides instructions for care of trans masculine people after top surgery.
 
-*   [How To Prep Your House Before Having Surgery](ttps://www.lelaburris.com/prep-house-surgery/)
+*   [How To Prep Your House Before Having Surgery](https://www.lelaburris.com/prep-house-surgery/)
 
     * Provides instructions for care of trans masculine people after top surgery.
 
