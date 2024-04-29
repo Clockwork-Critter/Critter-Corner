@@ -1,5 +1,5 @@
 +++
-title = 'Cosmology, Mythology, and Rules'
+title = 'Cosmology, Mythology, and Axioms'
 date = 2024-04-25T05:23:16-04:00
 description = 'Explains the workings of the Worldbeast magic and divinity systems as well as some narrative rules'
 weight = 2
