@@ -23,3 +23,6 @@ That's right! Despite all odds, I do indeed have friends. Here's a bit about the
 *   [Runarcn](https://runarcn.bearblog.dev)
 
     * FOSS advocate, Musician, and Cryptographer-in-training. Runarcn is an insightful presence, with a great sense of humor, who enhances every conversation he enters. Also handles the vital duty of occasionally sending me capybara images.
+*   [Ronnie](https://veeronniecaw.space)
+
+    * Funny Furry Fella who's presence I enjoy.
