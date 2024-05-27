@@ -3,7 +3,7 @@ title = 'Windows vs Linux'
 date = 2024-05-27T09:25:41-04:00
 description = 'A look at the different pros and cons of Windows and Linux through the eyes of Clockwork Critter'
 +++
-### Window's Pros
+### Windows Pros
 
 1. Compatible with most software including games.
 
