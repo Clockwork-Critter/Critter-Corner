@@ -23,6 +23,11 @@ That's right! Despite all odds, I do indeed have friends. Here's a bit about the
 *   [Runarcn](https://runarcn.bearblog.dev)
 
     * FOSS advocate, Musician, and Cryptographer-in-training. Runarcn is an insightful presence, with a great sense of humor, who enhances every conversation he enters. Also handles the vital duty of occasionally sending me capybara images.
+
 *   [Ronnie](https://veeronniecaw.space)
 
     * Funny Furry Fella who's presence I enjoy.
+
+*   [Sabby](https://veeronniecaw.space)
+
+    * Artist, Linux Enthusiast and ome of women's biggest fans, Sabby is a close friend who's playful nature makes her a joy to  be around.
