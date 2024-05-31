@@ -30,4 +30,4 @@ That's right! Despite all odds, I do indeed have friends. Here's a bit about the
 
 *   [Sabby](https://sabbyblue.blahaj.land/)
 
-    * Artist, Linux Enthusiast and ome of women's biggest fans, Sabby is a close friend who's playful nature makes her a joy to  be around.
+    * Artist, Linux Enthusiast and one of women's biggest fans, Sabby is a close friend who's playful nature makes her a joy to  be around.
