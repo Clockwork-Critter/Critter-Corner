@@ -36,10 +36,10 @@ These resources cover a lot of ground. They don't focus on one thing, or they de
 
 *   [Safe and sound: a renter-friendly guide to home repair](https://search.worldcat.org/title/Safe-and-sound-:-a-renter-friendly-guide-to-home-repair/oclc/1393439855/)
 
-    * A book that walks through getting an apartment, working with management, and fixing issues that come up, written by a trans woman with an emphasis on challenges faced by minorities
+    * A book that walks through getting an apartment, working with management, and fixing issues that come up, written by a trans woman with an emphasis on challenges faced by minorities.
 *    [LGBTQ Discrimination in the Workplace](https://employeejustice.com/lgbtq-discrimination-in-the-workplace/)
     
-     * A good primer on LGBTQ Workplace Discrimination and what can be done about it. Not an endorsement of the services they offer
+     * A good primer on LGBTQ Workplace Discrimination and what can be done about it. Not an endorsement of the services they offer.
 ## Medical Resources
 --------------------------------------------------------------------------------------------
 
@@ -71,7 +71,7 @@ These resources help connect trans people with the health care they need.
 
 *   [Rainbow Alphabet Collective](https://www.rainbowalphabetcollective.org/)
 
-    * A website that contains a list of WPATH-compliant healthcare and mental care providers
+    * A website that contains a list of WPATH-compliant healthcare and mental care providers.
 
 *   [Cost Plus Drug Company](https://costplusdrugs.com/)
 
@@ -128,7 +128,7 @@ Transition can be expensive. To help those who can't afford it, these organizati
 
 *   [Plume HRT Access Fund](https://getplume.co/hrt-access-fund/)
 
-    * Plume's Grant Fund for accessing HRT
+    * Plume's Grant Fund for accessing HRT.
 
 *   [Jim Collins Foundation](https://jimcollinsfoundation.org/)
 
@@ -223,7 +223,7 @@ A cause close to my heart. Taking ownership of your sexuality is a daunting task
 
 *   [Trans Sex by Lucie Fielding](https://luciefielding.com/book)
 
-    * One of my favorite books. Written for clinicians, but provides enough guidance and clear language for everyday people to understand and explore themselves. This book guides readers to understand their unique relationship with their body
+    * One of my favorite books. Written for clinicians, but provides enough guidance and clear language for everyday people to understand and explore themselves. This book guides readers to understand their unique relationship with their body.
 
 *   [Fucking Trans Women by Mira Bellwether](https://transreads.org/fucking-trans-women/)
 
