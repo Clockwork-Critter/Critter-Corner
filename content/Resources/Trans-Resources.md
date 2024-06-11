@@ -37,7 +37,9 @@ These resources cover a lot of ground. They don't focus on one thing, or they de
 *   [Safe and sound: a renter-friendly guide to home repair](https://search.worldcat.org/title/Safe-and-sound-:-a-renter-friendly-guide-to-home-repair/oclc/1393439855/)
 
     * A book that walks through getting an apartment, working with management, and fixing issues that come up, written by a trans woman with an emphasis on challenges faced by minorities
-
+*    [LGBTQ Discrimination in the Workplace](https://employeejustice.com/lgbtq-discrimination-in-the-workplace/)
+    
+     * A good primer on LGBTQ Workplace Discrimination and what can be done about it. Not an endorsement of the services they offer
 ## Medical Resources
 --------------------------------------------------------------------------------------------
 
