@@ -49,10 +49,6 @@ These resources help connect trans people with the health care they need.
 
     * A map of Informed Consent Trans Healthcare providers in the United States.
 
-*   [TransHealthcare.org](https://www.transhealthcare.org/)
-
-    * A website for finding Surgeons to perform a variety of surgeries for trans people.
-
 *   [Gender Affirmative Letter Access Project](https://thegalap.org/)
 
     * A project to help connect trans people with letters for Gender Affirming Care. Often useful for navigating insurance as well as legal name changes.
@@ -84,7 +80,10 @@ These resources help connect trans people with the health care they need.
 ## Surgical Resources
 ----------------------------------------------------------------------------------------------
 Provides resources for transgender people connecting to surgical healthcare. Inclusion is not an endorsement of surgical performance.
+*   [TransHealthcare.org](https://www.transhealthcare.org/)
 
+    * A website for finding Surgeons to perform a variety of surgeries for trans people.
+    
 *   [Phallo.net](https://www.phallo.net/)
 
     * Informational site on Phalloplasty. Overviews of different surgery techniques and technologies.
@@ -92,7 +91,9 @@ Provides resources for transgender people connecting to surgical healthcare. Inc
 *   [MTFsurgery.net](https://www.mtfsurgery.net/)
 
     * Informational site on MTF Surgeries. Overviews of different surgery techniques and technologies.
+*   [FTMsurgery.net](https://www.ftmsurgery.net)
 
+    * Informational site on FTM Surgeries. Overviews of different surgery techniques and technologies.
 *   [Metoidioplasty.net](https://www.metoidioplasty.net/)
 
     * Informational site on Metoidioplasty. Overviews of different surgery techniques and technologies.
