@@ -83,7 +83,7 @@ Provides resources for transgender people connecting to surgical healthcare. Inc
 *   [TransHealthcare.org](https://www.transhealthcare.org/)
 
     * A website for finding Surgeons to perform a variety of surgeries for trans people.
-    
+
 *   [Phallo.net](https://www.phallo.net/)
 
     * Informational site on Phalloplasty. Overviews of different surgery techniques and technologies.
@@ -116,7 +116,7 @@ Provides resources for transgender people connecting to surgical healthcare. Inc
 
 *   [How To Prep Your House Before Having Surgery](https://www.lelaburris.com/prep-house-surgery/)
 
-    * Provides instructions for care of trans masculine people after top surgery.
+    * Provides instructions for care of people after a surgery of any kind.
 
 ## Funding Resources
 --------------------------------------------------------------------------------------------
