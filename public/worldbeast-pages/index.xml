@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Worldbeast on Critter Corner</title>
     <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/</link>
     <description>Recent content in The Worldbeast on Critter Corner</description>
-    <generator>Hugo -- 0.124.1</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under CC BY-SA 4.0</copyright>
-    <lastBuildDate>Thu, 25 Apr 2024 05:23:16 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 14:42:41 -0400</lastBuildDate>
     <atom:link href="https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosmology, Mythology, and Axioms</title>
       <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
       <pubDate>Thu, 25 Apr 2024 05:23:16 -0400</pubDate>
       <guid>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
-      <description>Explains the workings of the Worldbeast magic and divinity systems as well as some narrative rules</description>
+      <description>Cosmology Before the beginning, there was nothing. In the very center of nothing, was everything. Everything opened its singular eye and beheld its opposite. It was a mighty creature and within itself, it contained every variation of every single possible moment, all at once. It was the mighty Worldbeast. But after eons of staring into the nothingness, its eye became bloodshot and the first crimson flower of madness began to bloom.</description>
     </item>
   </channel>
 </rss>
