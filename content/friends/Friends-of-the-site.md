@@ -4,7 +4,7 @@ description = 'A list of friends to the site.'
 +++
 That's right! Despite all odds, I do indeed have friends. Here's a bit about them:
 
-*   [Rose]https://xenia.blahaj.land)
+*   [Rose](https://xenia.blahaj.land)
 
     * Xenia is a Programmer for Crystal Linux. Her sense of humor, good-natured personality, and willingness to help others uplift any community she is a part of.
 
