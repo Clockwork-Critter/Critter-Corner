@@ -39,7 +39,10 @@ These resources cover a lot of ground. They don't focus on one thing, or they de
     * A book that walks through getting an apartment, working with management, and fixing issues that come up, written by a trans woman with an emphasis on challenges faced by minorities.
 *    [LGBTQ Discrimination in the Workplace](https://employeejustice.com/lgbtq-discrimination-in-the-workplace/)
     
-     * A good primer on LGBTQ Workplace Discrimination and what can be done about it. Not an endorsement of the services they offer.
+     * A good primer on LGBTQ+ Workplace Discrimination and what can be done about it. Not an endorsement of the services they offer.
+
+*   [Rainbow Railroad](https://www.rainbowrailroad.org)
+     * An Organization that helps LGBTQ+ people in hostile countries get to safety.
 ## Medical Resources
 --------------------------------------------------------------------------------------------
 
