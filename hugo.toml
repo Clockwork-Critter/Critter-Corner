@@ -17,9 +17,6 @@ Content = "Hi there! I go by the Clockwork Critter and I use she/her and it/its 
 name = "github"
 url = "https://github.com/Clockwork-Critter"
 
-[[params.socialIcons]]
-name = "mastodon"
-url = "https://bark.lgbt/@Starsung_Syndicate"
 
 [[params.socialIcons]]
 name = "matrix"
