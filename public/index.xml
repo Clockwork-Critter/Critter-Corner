@@ -1,55 +1,62 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Critter Corner</title>
-    <link>http://localhost:1313/Critter-Corner/</link>
+    <link>https://clockwork-critter.github.io/Critter-Corner/</link>
     <description>Recent content on Critter Corner</description>
-    <generator>Hugo -- 0.124.1</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under CC BY-SA 4.0</copyright>
     <lastBuildDate>Mon, 27 May 2024 09:25:41 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/Critter-Corner/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://clockwork-critter.github.io/Critter-Corner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosmology, Mythology, and Axioms</title>
-      <link>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
       <pubDate>Thu, 25 Apr 2024 05:23:16 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
-      <description>Explains the workings of the Worldbeast magic and divinity systems as well as some narrative rules</description>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
+      <description>Cosmology Before the beginning, there was nothing. In the very center of nothing, was everything. Everything opened its singular eye and beheld its opposite. It was a mighty creature and within itself, it contained every variation of every single possible moment, all at once. It was the mighty Worldbeast. But after eons of staring into the nothingness, its eye became bloodshot and the first crimson flower of madness began to bloom.</description>
     </item>
     <item>
       <title>Windows vs Linux</title>
-      <link>http://localhost:1313/Critter-Corner/blog/windows-vs-linux/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/blog/windows-vs-linux/</link>
       <pubDate>Mon, 27 May 2024 09:25:41 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/blog/windows-vs-linux/</guid>
-      <description>A look at the different pros and cons of Windows and Linux through the eyes of Clockwork Critter</description>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/blog/windows-vs-linux/</guid>
+      <description>Windows Pros Compatible with most software including games.&#xA;If it runs it probably runs on Windows. This incudes really old programs and obscure games. Difficult to break, easy to maintain&#xA;Windows can be broken but it does require doing something stupid and it can be much easier to recover than Linux depending on how you messed up. A broken update can easily be undone sometimes even automatically for example, though newer Linux systems like Fedora Silverblue and NixOS do surpass or rival it in this regard.</description>
     </item>
     <item>
       <title>Choosing a Username</title>
-      <link>http://localhost:1313/Critter-Corner/blog/choosing-a-username/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</link>
       <pubDate>Mon, 22 Apr 2024 07:59:46 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/blog/choosing-a-username/</guid>
-      <description>How the current username was chosen. Will be updated as usernames change.</description>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</guid>
+      <description>On Names I have always been a believer in the importance of a name. What we call things reflects how we interact with them. I used this principle when choosing my chosen name, picking something I believed fit my personality and my values. A username however is different. A username is not just a reflection of who you are, but a key part of shaping the way people respond to you online.</description>
     </item>
     <item>
       <title>Trans Resources</title>
-      <link>http://localhost:1313/Critter-Corner/resources/trans-resources/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</link>
       <pubDate>Thu, 11 Apr 2024 09:08:03 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/resources/trans-resources/</guid>
-      <description>A list of helpful resources to help transgender people navigate issues that they commonly face.</description>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</guid>
+      <description>General Resources These resources cover a lot of ground. They don&amp;rsquo;t focus on one thing, or they deal with more general concerns.&#xA;LGBT Near Me&#xA;This site helps you locate Trans and other Queer resources in your area. The National Center for Transgender Equality&#xA;This site contains information on name and gender changes by state as well as other important information about rights and the navigation of various structures, such as insurance.</description>
     </item>
     <item>
       <title>The Making of a Website</title>
-      <link>http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</link>
       <pubDate>Thu, 11 Apr 2024 08:54:04 -0400</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/</guid>
-      <description>An explanation of why and how Critter Corner was made.</description>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</guid>
+      <description>Websites and Social Media In the early days of the internet, years before I would use it at all, it was commonplace to have personal websites. Then I am told came social media sites. They provided an easier way to get your thoughts out into the world. No code, markup, or page design is needed; just write and get directly to sharing. This came with a big boom in popularity for the internet in general as well as these sites in particular; to not use them was to become irrelevant, at least in the eyes of the net.</description>
     </item>
     <item>
       <title>Friends of the Site</title>
-      <link>http://localhost:1313/Critter-Corner/friends/friends-of-the-site/</link>
+      <link>https://clockwork-critter.github.io/Critter-Corner/friends/friends-of-the-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Critter-Corner/friends/friends-of-the-site/</guid>
-      <description>A list of friends to the site.</description>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/friends/friends-of-the-site/</guid>
+      <description>That&amp;rsquo;s right! Despite all odds, I do indeed have friends. Here&amp;rsquo;s a bit about them:&#xA;Rose&#xA;Xenia is a Programmer for Crystal Linux. Her sense of humor, good-natured personality, and willingness to help others uplift any community she is a part of. Eris&#xA;Polymath, Musician, Programmer, Activist, and Retro Technology Enthusiast. Eris brings knowledge, passion, and a unique sense of humor to any subject she encounters. It is impossible to be friends with Eris for long without learning something.</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://clockwork-critter.github.io/Critter-Corner/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>
