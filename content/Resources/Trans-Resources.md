@@ -80,6 +80,11 @@ These resources help connect trans people with the health care they need.
 
     * A website that allows comparative shopping for medications.
 
+*   [Trans Harm Reduction](https://transharmreduction.org)
+
+    * A website that tests DIY medication sources and provides instructions for injection and getting clean injection supplies.
+
+
 ## Surgical Resources
 ----------------------------------------------------------------------------------------------
 Provides resources for transgender people connecting to surgical healthcare. Inclusion is not an endorsement of surgical performance.
@@ -182,6 +187,9 @@ Find your authentic voice with these resources for vocal training.
 *   [Voice Resource Repository](https://wiki.sumianvoice.com/)
 
     * A collaborative wiki for explaining voice training concepts.
+*   [Trans Voice Party](https://transvoice.party)
+
+    * A small repository for hosting trans voice training resources
 
 ## Style and Hair Removal Resources
 ------------------------------------------------------------------------------------------------------
