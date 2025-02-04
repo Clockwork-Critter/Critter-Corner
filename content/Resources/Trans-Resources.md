@@ -259,3 +259,7 @@ A cause close to my heart. Taking ownership of your sexuality is a daunting task
 *   [Bedsider](https://www.bedsider.org/)
 
     * An informational resource on birth control and STI protection methods and their advantages and drawbacks. Note that gender-affirming hormone therapy is **not** birth control.
+
+*   [PUMP: Sexual Pleasure & Health Resource Guide for Transmen who have Sex with Men](https://callen-lorde.org/graphics/2021/02/PUMP-TMSM-Health-Guide_Final_V3.2.pdf)
+
+    * An informational resource for trans men who want to have sex with other men.
