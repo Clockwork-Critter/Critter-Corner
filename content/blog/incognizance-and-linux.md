@@ -1,7 +1,7 @@
 +++
 title = 'Incognizance and Linux'
 date = 2025-02-17T13:09:52-05:00
-description = 'An explanation of incognizance and how it effects the Linux community'
+description = 'An explanation of incognizance and how it affects the Linux community'
 +++
 ## Introduction
 
