@@ -1,7 +1,6 @@
 +++
 title = 'Incognizance and Linux'
 date = 2025-02-17T13:09:52-05:00
-draft=true
 description = 'An explanation of incognizance and how it effects the Linux community'
 +++
 ## Introduction
@@ -14,3 +13,6 @@ Incognizance in information science is the state of having a particular informat
 
 ## Why Does it Matter? 
 
+If you want to make a system easier to use, you first have to understand where the problems come from before you can attempt to solve them. Going back to our previous examples, the user trying to get their wifi working doesn't know that they need to learn how linux handles packages. They also need to know how to find the right driver packages. Of course the best way to solve this is to have the driver loaded by default, but this isn't always possible. Some distros attempt to fix this by creating a welcome tour that explains where to get your software. This prompts the user to understand that they get their software from a different place then they would on Windows, therefore reducing their incognizance.
+
+In more generic terms: reusing incognizance means solving problems before they come up and giving people the tools to seek the information they need to solve their own problems, which means less work for everyone involved. It also helps you to have more patience with people who are new. When you understand where systems fail their users and where these problems come from it becomes easier to empathize and teach rather then the normal Linux community refrain of RTFM or belittling them. And that is a goal well worth considering.
