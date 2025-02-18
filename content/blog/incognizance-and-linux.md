@@ -5,7 +5,7 @@ description = 'An explanation of incognizance and how it affects the Linux commu
 +++
 ## Introduction
 
-How many times have you had this happen? A person joins your community and makes a post asking about how to get their WiFi working on Linux. They are new to Linux and they have an .exe file they downloaded somewhere from the internet. Or how about a person who wants to install Linux but can't choose a distribution and asks for the "best one" or better yet wanting to install "Linux" but not knowing what a distribution is. What explains these kinds of missteps? After all a seasoned user would easily point out the mistakes and know where to get more information. The answer lies in a phenomenon called incognizance.
+How many times have you had the following happen? A person joins your community and makes a post asking about how to get their WiFi working on Linux. They are new to Linux and they have an .exe file they downloaded somewhere from the internet. Or how about a person who wants to install Linux but can't choose a distribution and asks for the "best one" or better yet wanting to install "Linux" but not knowing what a distribution is. What explains these kinds of missteps? After all a seasoned user would easily point out the mistakes and know where to get more information. The answer lies in a phenomenon called incognizance.
 
 ## What is Incognizance?
 
