@@ -4,11 +4,11 @@ description = 'A list of friends to the site.'
 +++
 That's right! Despite all odds, I do indeed have friends. Here's a bit about them:
 
-*   [Rose](https://xenia.blahaj.land)
+*   [Rose](https://pinkro.se/)
 
-    * Xenia is a Programmer for Crystal Linux. Her sense of humor, good-natured personality, and willingness to help others uplift any community she is a part of.
+    * Rose is a Programmer for Crystal Linux. Her sense of humor, good-natured personality, and willingness to help others uplift any community she is a part of.
 
-*   [Eris](https://eris.gay/)
+*   [Eris](https://florality.ca/)
 
     * Polymath, Musician, Programmer, Activist, and Retro Technology Enthusiast. Eris brings knowledge, passion, and a unique sense of humor to any subject she encounters. It is impossible to be friends with Eris for long without learning something.
 
