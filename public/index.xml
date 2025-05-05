@@ -38,13 +38,6 @@
       <description>How the current username was chosen. Will be updated as usernames change.</description>
     </item>
     <item>
-      <title>Trans Resources</title>
-      <link>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</link>
-      <pubDate>Thu, 11 Apr 2024 09:08:03 -0400</pubDate>
-      <guid>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</guid>
-      <description>A list of helpful resources to help transgender people navigate issues that they commonly face.</description>
-    </item>
-    <item>
       <title>The Making of a Website</title>
       <link>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</link>
       <pubDate>Thu, 11 Apr 2024 08:54:04 -0400</pubDate>
@@ -57,6 +50,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://clockwork-critter.github.io/Critter-Corner/friends/friends-of-the-site/</guid>
       <description>A list of friends to the site.</description>
+    </item>
+    <item>
+      <title>Trans Resources</title>
+      <link>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</guid>
+      <description>A list of helpful resources to help transgender people navigate issues that they commonly face.</description>
     </item>
   </channel>
 </rss>

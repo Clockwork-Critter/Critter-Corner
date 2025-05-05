@@ -23,12 +23,6 @@
     <loc>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</loc>
     <lastmod>2024-04-22T07:59:46-04:00</lastmod>
   </url><url>
-    <loc>https://clockwork-critter.github.io/Critter-Corner/resources/</loc>
-    <lastmod>2024-04-11T09:08:03-04:00</lastmod>
-  </url><url>
-    <loc>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</loc>
-    <lastmod>2024-04-11T09:08:03-04:00</lastmod>
-  </url><url>
     <loc>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</loc>
     <lastmod>2024-04-11T08:54:04-04:00</lastmod>
   </url><url>
@@ -38,8 +32,12 @@
   </url><url>
     <loc>https://clockwork-critter.github.io/Critter-Corner/friends/friends-of-the-site/</loc>
   </url><url>
+    <loc>https://clockwork-critter.github.io/Critter-Corner/resources/</loc>
+  </url><url>
     <loc>https://clockwork-critter.github.io/Critter-Corner/search/</loc>
   </url><url>
     <loc>https://clockwork-critter.github.io/Critter-Corner/tags/</loc>
+  </url><url>
+    <loc>https://clockwork-critter.github.io/Critter-Corner/resources/trans-resources/</loc>
   </url>
 </urlset>

@@ -1,6 +1,5 @@
 +++
 title = 'Trans Resources'
-date = 2024-04-11T09:08:03-04:00
 description = 'A list of helpful resources to help transgender people navigate issues that they commonly face.'
 +++
 ## General Resources
