@@ -80,6 +80,11 @@ These resources help connect trans people with the health care they need.
 
     * A website that allows comparative shopping for medications.
 
+*   [Trans Harm Reduction](https://transharmreduction.org)
+
+    * A website that tests DIY medication sources and provides instructions for injection and getting clean injection supplies.
+
+
 ## Surgical Resources
 ----------------------------------------------------------------------------------------------
 Provides resources for transgender people connecting to surgical healthcare. Inclusion is not an endorsement of surgical performance.
@@ -120,6 +125,9 @@ Provides resources for transgender people connecting to surgical healthcare. Inc
 *   [How To Prep Your House Before Having Surgery](https://www.lelaburris.com/prep-house-surgery/)
 
     * Provides instructions for care of people after a surgery of any kind.
+*   [TransBucket](https://www.transbucket.com)
+
+    * Provides a platform for sharing trans surgery pictures and reviews. Requires an account to view.
 
 ## Funding Resources
 --------------------------------------------------------------------------------------------
@@ -182,6 +190,9 @@ Find your authentic voice with these resources for vocal training.
 *   [Voice Resource Repository](https://wiki.sumianvoice.com/)
 
     * A collaborative wiki for explaining voice training concepts.
+*   [Trans Voice Party](https://transvoice.party)
+
+    * A small repository for hosting trans voice training resources
 
 ## Style and Hair Removal Resources
 ------------------------------------------------------------------------------------------------------
@@ -248,3 +259,7 @@ A cause close to my heart. Taking ownership of your sexuality is a daunting task
 *   [Bedsider](https://www.bedsider.org/)
 
     * An informational resource on birth control and STI protection methods and their advantages and drawbacks. Note that gender-affirming hormone therapy is **not** birth control.
+
+*   [PUMP: Sexual Pleasure & Health Resource Guide for Transmen who have Sex with Men](https://callen-lorde.org/graphics/2021/02/PUMP-TMSM-Health-Guide_Final_V3.2.pdf)
+
+    * An informational resource for trans men who want to have sex with other men.
