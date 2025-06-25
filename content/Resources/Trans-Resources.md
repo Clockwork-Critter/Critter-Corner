@@ -42,6 +42,7 @@ These resources cover a lot of ground. They don't focus on one thing, or they de
 
 *   [Rainbow Railroad](https://www.rainbowrailroad.org)
      * An Organization that helps LGBTQ+ people in hostile countries get to safety.
+
 ## Medical Resources
 --------------------------------------------------------------------------------------------
 
