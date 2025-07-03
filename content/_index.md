@@ -40,7 +40,7 @@ I can be found on the following sites
 
 *   [Ronnie](https://veeronniecaw.space)
 
-    * Funny Furry Fella who's presence I enjoy.
+    * Funny Furry Fella whose presence I enjoy.
 
 *   [Sabby](https://sabbyblue.blahaj.land/)
 
