@@ -1,0 +1,139 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <copyright>This work is licensed under CC BY-SA 4.0</copyright>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Mon, 17 Feb 2025 13:09:52 EST</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/Critter-Corner/friends/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/Critter-Corner/friends/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/Critter-Corner/friends/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/Critter-Corner/friends/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Friends · Critter Corner</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<p>That&rsquo;s right! Despite all odds, I do indeed have friends. Here&rsquo;s a bit about them:</p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,0001-01-01:/Critter-Corner/friends/friends-of-the-site/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/Critter-Corner/friends/friends-of-the-site/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/Critter-Corner/friends/friends-of-the-site/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>Friends of the Site</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>

@@ -1,9 +1,22 @@
 +++
-title = 'Friends of the Site'
-description = 'A list of friends to the site.'
+[params.paige.pages]
+disable_collections = true
+disable_pages = true
+disable_sections = true
+disable_word_count = true
+disable_reading_time = true
 +++
-That's right! Despite all odds, I do indeed have friends. Here's a bit about them:
+# About Me
+Hi there! I go by the Clockwork Critter and I use she/her and it/its pronouns. I am a Linux Enthusiast, Furry, and Aspiring Data Scientist. I enjoy learning about technology, statistics and data of all kinds, as well as digital privacy. I also enjoy comedy and humor, I am always looking to make those close to me laugh. This website is dedicated to journaling my thoughts as I try finding my place in both the tech industry and the wider world as well as collecting resources that help marginalized people navigate their challenges.
 
+# Contact and Social Media
+I can be found on the following sites
+* [Github](https://github.com/Clockwork-Critter)
+* [Matrix](https://matrix.to/#/@clockwork_critter:matrix.org)
+* [E-Mail](mailto:clockwork-critter.cassette539@silomails.com)
+* [Fediverse](https://chitter.xyz/@ClockworkCritter)
+
+# Friends of the Site
 *   [Rose](https://pinkro.se/)
 
     * Rose is a Programmer for Crystal Linux. Her sense of humor, good-natured personality, and willingness to help others uplift any community she is a part of.
@@ -30,4 +43,4 @@ That's right! Despite all odds, I do indeed have friends. Here's a bit about the
 
 *   [Sabby](https://sabbyblue.blahaj.land/)
 
-    * Artist, Linux Enthusiast and one of women's biggest fans, Sabby is a close friend who's playful nature makes her a joy to  be around.
+    * Artist, Linux Enthusiast and one of women's biggest fans, Sabby is a close friend who's playful nature makes her a joy to be around.

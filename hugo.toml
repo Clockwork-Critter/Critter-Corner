@@ -1,45 +1,8 @@
 baseURL = 'https://clockwork-critter.github.io/Critter-Corner/'
 languageCode = 'en-us'
 title = 'Critter Corner'
-theme = 'PaperMod'
 copyright = 'This work is licensed under CC BY-SA 4.0'
-
-[params]
-  mainSections = ['friends']
-  Description = "The personal website of Clockwork Critter. Contains a blog, a compendium of resources and other projects"
-  env = "production"
-
-[params.homeInfoParams]
-Title = "About Me"
-Content = "Hi there! I go by the Clockwork Critter and I use she/her and it/its pronouns. I am a Linux Enthusiast, Furry, and Aspiring Data Scientist. I enjoy learning about technology, statistics and data of all kinds, as well as digital privacy. I also enjoy comedy and humor, I am always looking to make those close to me laugh. This website is dedicated to journaling my thoughts as I try finding my place in both the tech industry and the wider world as well as collecting resources that help marginalized people navigate their challenges."
-
-[[params.socialIcons]]
-name = "github"
-url = "https://github.com/Clockwork-Critter"
-
-
-[[params.socialIcons]]
-name = "matrix"
-url = "https://matrix.to/#/@clockwork_critter:matrix.org"
-
-[[params.socialIcons]]
-name = "email"
-url = "mailto:clockwork-critter.cassette539@silomails.com"
-
-[[menu.main]]
-identifier = "Blog"
-name = "Blog"
-url = "/blog/"
-weight = 10
-
-[[menu.main]]
-identifier = "Resources"
-name = "Resources"
-url = "/resources/"
-weight = 20
-
-[[menu.main]]
-identifier = "Worldbeast"
-name = "Worldbeast"
-url = "/worldbeast pages/"
-weight = 30
+[[module.imports]]
+path = "github.com/willfaught/paige"
+[params.paige.site]
+disable_breadcrumbs = true

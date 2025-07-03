@@ -1,0 +1,311 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            <copyright>This work is licensed under CC BY-SA 4.0</copyright>
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Mon, 17 Feb 2025 13:09:52 EST</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/Critter-Corner/blog/</link>
+        
+
+        
+            <atom:link href="http://localhost:1313/Critter-Corner/blog/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+        
+
+        
+            
+
+            <atom:link href="http://localhost:1313/Critter-Corner/blog/" hreflang="en-us" rel="alternate" type="text/html"/>
+        
+            
+
+            <atom:link href="http://localhost:1313/Critter-Corner/blog/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+        
+
+        
+
+        
+
+        
+            <title>Blogs · Critter Corner</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h2 id=introduction>Introduction</h2><p>How many times have you had the following happen? A person joins your community and makes a post asking about how to get their WiFi working on Linux. They are new to Linux and they have an .exe file they downloaded somewhere from the internet. Or how about a person who wants to install Linux but can&rsquo;t choose a distribution and asks for the &ldquo;best one&rdquo; or better yet wanting to install &ldquo;Linux&rdquo; but not knowing what a distribution is. What explains these kinds of missteps? After all a seasoned user would easily point out the mistakes and know where to get more information. The answer lies in a phenomenon called incognizance.</p><h2 id=what-is-incognizance>What is Incognizance?</h2><p>Incognizance in information science is the state of having a particular information need but being unaware you have this need. Take for a particularly dramatic example: a patient being diagnosed with cancer. They may be so overwhelmed by the diagnosis that they don&rsquo;t have any idea what to ask their doctor. They may need to know how this will affect their day to day life or how to find emotional support but they may not know that they need these things until later. It may help to connect this concept with your life. Can you think of a time that you didn&rsquo;t know what you needed to know?</p><h2 id=why-does-it-matter>Why Does it Matter?</h2><p>If you want to make a system easier to use, you first have to understand where the problems come from before you can attempt to solve them. Going back to our previous examples, the user trying to get their wifi working doesn&rsquo;t know that they need to learn how Linux handles packages. They also need to know how to find the right driver packages. Of course the best way to solve this is to have the driver loaded by default, but this isn&rsquo;t always possible. Some distros attempt to fix this by creating a welcome tour that explains where to get your software. This prompts the user to understand that they get their software from a different place then they would on Windows, therefore reducing their incognizance.</p><p>In more generic terms: reducing incognizance means solving problems before they come up and giving people the tools to seek the information they need to solve their own problems, which means less work for everyone involved. It also helps you to have more patience with people who are new. When you understand where systems fail their users and where these problems come from it becomes easier to empathize and teach, rather than the normal Linux community refrain of RTFM or belittling them. And that is a goal well worth considering.</p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-02-17:/Critter-Corner/blog/incognizance-and-linux/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/Critter-Corner/blog/incognizance-and-linux/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/Critter-Corner/blog/incognizance-and-linux/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 17 Feb 2025 13:09:52 EST</pubDate>
+                    
+
+                    
+                        <title>Incognizance and Linux</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h3 id=windows-pros>Windows Pros</h3><ol><li><p>Compatible with most software including games.</p><ul><li>If it runs it probably runs on Windows. This incudes really old programs and obscure games.</li></ul></li><li><p>Difficult to break, easy to maintain</p><ul><li>Windows can be broken but it does require doing something stupid and it can be much easier to recover than Linux depending on how you messed up. A broken update can easily be undone sometimes even automatically for example, though newer Linux systems like Fedora Silverblue and NixOS do surpass or rival it in this regard.</li></ul></li></ol><h3 id=windows-cons>Windows Cons</h3><ol><li>Difficult installations<ul><li>On Windows it&rsquo;s not uncommon to have to chew through a few installers to set up the software you need.</li></ul></li><li>Inflexible UX<ul><li>On Windows you can&rsquo;t move your taskbar to the side and you have very limited options for customization.</li></ul></li><li>The Spectre of AI integration<ul><li>This won&rsquo;t be a problem for everyone but the integrity of my information is very important to me. The encroachment of AI and LLMs into windows means I have to be careful when an LLM might be injecting information or digesting my writing for analysis and training</li></ul></li></ol><h3 id=linux-pros>Linux Pros</h3><ol><li>Software Availability<ul><li>On linux if software is available you grab it from the software store or maybe the package manager and get going.</li></ul></li><li>UX flexibility<ul><li>On linux you can have the UX work however you&rsquo;d like thanks to GNOME extensions or KDE plasma or the massive collection of Window Managers out there. If you can dream it, there&rsquo;s a way to do it on linux.</li></ul></li><li>The command line<ul><li>Linux allows a lot of flexibility through it&rsquo;s command line. While windows has this as well, Linux allows you to change or do just about anything through the terminal</li></ul></li></ol><h3 id=linux-cons>Linux Cons</h3><ol><li>Installing software not available through the store or your OS&rsquo;s repos can be a real pain<ul><li>Weird extra package managers, manual compilation, random appimage files and more, things not packaged for your OS can be a real pain to get working. The upside to this is that you can install even the weird stuff and with a little elbow grease you might even get to package it yourself to spare others the pain you went through</li></ul></li><li>The 99% rule<ul><li>99% of your desktop will work really well! However there will always be a few annoying bugs you can&rsquo;t fix with your hardware or a few features that don&rsquo;t quite work. It&rsquo;s annoying and it&rsquo;s up to every person if it&rsquo;s worth it compared to Linux&rsquo;s competitors.</li></ul></li><li>Unlimited Footgun Ammunition<ul><li>If you want to do something stupid linux won&rsquo;t stop you! Especially through the terminal. This can make the learning process quite frustrating.</li></ul></li></ol>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2024-05-27:/Critter-Corner/blog/windows-vs-linux/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/Critter-Corner/blog/windows-vs-linux/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/Critter-Corner/blog/windows-vs-linux/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 27 May 2024 09:25:41 EDT</pubDate>
+                    
+
+                    
+                        <title>Windows vs Linux</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h2 id=on-names>On Names</h2><p>I have always been a believer in the importance of a name. What we call things reflects how we interact with them. I used this principle when choosing my chosen name, picking something I believed fit my personality and my values. A username however is different. A username is not just a reflection of who you are, but a key part of shaping the way people respond to you online. A username can shape the gender people assign to you, but it can also impart a lot of personality that a first name can not. This is because a username is expected to be creative, whereas a name is meant to simply represent a person. This isn&rsquo;t to say a username is more important but to say that it has different affordances than a real name.</p><h2 id=the-clockwork>The Clockwork</h2><p>I have always been fascinated by complex systems. The computer, the cell, human bodies, the list goes on. There is something endlessly fascinating about a bunch of lesser parts working together in order. And nothing summarizes this feeling for me more than clockwork. I love listening to the gears tick and watching them move on the pocketwatch my brother bought for me is so relaxing. It calls to mind a regimented, meticulous person(despite the number of spelling and grammatical errors this blog will no doubt contain), who enjoys fine details which is how I like people to think of me. Therefore, the Clockwork part of the name felt perfectly natural. In addition, while I often struggle to identify body sensations like muscle pain or hunger, visualizing myself as made of gears makes them easier to identify, which makes my affinity for the term even stronger.</p><h2 id=the-critter>The Critter</h2><p>When we think of a human a lot of things come to mind. Jobs, school, marriage, and a plethora of other assorted societal expectations for what one is supposed to do. So while I am physically a human, I like to use the word critter to detach myself from them when making decisions about what I should do. That way even when I make these decisions it is more likely that I am doing what I think is best rather than following precedent. In addition, critter is an endearing and friendly sounding word which is the energy I try to bring into my interactions with people whose company I enjoy.</p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2024-04-22:/Critter-Corner/blog/choosing-a-username/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/Critter-Corner/blog/choosing-a-username/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/Critter-Corner/blog/choosing-a-username/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Mon, 22 Apr 2024 07:59:46 EDT</pubDate>
+                    
+
+                    
+                        <title>Choosing a Username</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                    
+                    
+
+                    
+
+                    
+                        <description><![CDATA[<h3 id=websites-and-social-media>Websites and Social Media</h3><p>In the early days of the internet, years before I would use it at all, it was commonplace to have personal websites. Then I am told came social media sites. They provided an easier way to get your thoughts out into the world. No code, markup, or page design is needed; just write and get directly to sharing. This came with a big boom in popularity for the internet in general as well as these sites in particular; to not use them was to become irrelevant, at least in the eyes of the net. The biggest social media platforms have user counts in the tens and sometimes even hundreds of millions, using their platforms to broadcast their ideas every day. That&rsquo;s a lot of posts. In fact, according to <a href=https://www.internetlivestats.com/one-second/#tweets-band rel=external>InternetLiveStats</a>
+Twitter sees 6,000 tweets a second. There, of course, comes a new problem. I&rsquo;d call this the modern problem. There is so much of everyone&rsquo;s thoughts that everything becomes ephemeral; even when posts stay up for long periods, they are functionally &ldquo;gone,&rdquo; or better to say irrelevant, within a day. This is unless you have either a large amount of money or insight into a sizeable chunk of the user base. Given that we are presumably possessed by neither our options for cataloging our thoughts despite the best efforts of many are to be irrelevant to the affordances of either social media or those of a website.</p><h3 id=the-affordances-of-social-media>The Affordances of Social Media</h3><p>It is reasonable to assume that because this is written on a website I am against social media but this is not so. In fact, on my main page, I have several social media pages. Social media has the advantage of allowing people to share content with friends and share a uniform experience with other users. Social media is at its best when it allows people to share small portions of their work, short thoughts or experiences with other people, especially fast-moving things like status updates or project announcements. I use social media to get updates from artists, tech projects, and personal friends. I also use it to discuss my interests with other like-minded individuals. Social media is at its best when it is used as a connective medium, it isn’t for creating a repository of thoughts as much as it is to connect people.</p><h3 id=the-affordances-of-a-website>The Affordances of a Website</h3><p>So, when does one want to make a website? Well, a personal website is static. As long as it is maintained it provides the same content to each visitor. This means that is a better storage medium for thoughts and opinions, especially longer-form ones. This was one of the major objectives for making this website. As I progress to my professional life, and work through my academic life, I find myself with more thoughts in need of an outlet. The static nature of a website of this nature is ideal for this because it allows me to look and refer back to these thoughts as needed. In contrast, things like reach and allowing others to comment on the site are less important and thus social media is less appropriate.</p><h3 id=how-the-site-was-made-and-why>How the Site was Made and Why</h3><p>This website is hosted on <a href=https://neocities.org/ rel=external>Neocities</a>
+and created directly in HTML and CSS. To make new pages and test layout changes I use <a href=https://vscodium.com/ rel=external>Visual Studio Codium</a>
+, a free software build of VSCode with the telemetry removed with the extension <a href=https://github.com/yandeu/five-server rel=external>Five Server</a>
+to let me make live changes and see the results instantly. With plenty of simpler options, like WordPress, why make a website this way? Well, it&rsquo;s because as an information sciences student having a variety of skills is useful. This site serves as an excuse to learn HTML and CSS, and it allows me to practice self-teaching complex technical skills, a meta-skill that is very important for a fast-paced environment like the tech industry.</p><h3 id=how-the-site-was-made-and-why-redux>How the Site was Made and Why (Redux)</h3><p>Recently I decided to change the site-building process from my own HTML and CSS to Hugo, a static site generator. This enables much faster website creation and makes it easier for me to correctly group content. This new version of the site will be hosted on a static web host, GitHub Pages, and given a custom domain (which, unlike neocities, GitHub offers the use of custom domains for free!)</p>]]></description>
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2024-04-11:/Critter-Corner/blog/the-making-of-a-website/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/</link>
+                    
+
+                    
+                        
+
+                        
+
+                        <atom:link href="http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/" hreflang="en-us" rel="alternate" type="text/html"/>
+                    
+
+                    
+
+                    
+                        <pubDate>Thu, 11 Apr 2024 08:54:04 EDT</pubDate>
+                    
+
+                    
+                        <title>The Making of a Website</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>
