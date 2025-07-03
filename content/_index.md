@@ -44,4 +44,4 @@ I can be found on the following sites
 
 *   [Sabby](https://sabbyblue.blahaj.land/)
 
-    * Artist, Linux Enthusiast and one of women's biggest fans, Sabby is a close friend who's playful nature makes her a joy to be around.
+    * Artist, Linux Enthusiast and one of women's biggest fans, Sabby is a close friend whose playful nature makes her a joy to be around.
