@@ -165,6 +165,10 @@ Transition can be expensive. To help those who can't afford it, these organizati
 
     * Fund to help trans people access gender-affirming care and legal resources of various types that they otherwise could not afford.
 
+*   [Out2Enroll](https://www.out2enroll.org)
+    * Provides advice for purchasing health insurance for gender affirming care.
+
+
 ## Voice Training Resources
 --------------------------------------------------------------------------------------
 
@@ -234,6 +238,9 @@ Making adjustments to your style can be overwhelming. Here are some resources to
 
     * A guide on how to do makeup from a professional artist covers picking products and fundamental techniques.
 
+*   [Hair Has No Gender]
+    
+    *     * A website for finding trans-friendly hair stylists.
 ## Trans Sex Education Resources
 ------------------------------------------------------------------------------------------------
 

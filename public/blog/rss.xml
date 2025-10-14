@@ -51,21 +51,21 @@
         
 
         
-            <link>http://localhost:1313/Critter-Corner/blog/</link>
+            <link>https://clockwork-critter.github.io/Critter-Corner/blog/</link>
         
 
         
-            <atom:link href="http://localhost:1313/Critter-Corner/blog/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/Critter-Corner/blog/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/" hreflang="en-us" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/Critter-Corner/blog/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -108,11 +108,11 @@
                     
 
                     
-                        <guid isPermaLink="false">tag:localhost:1313,2025-02-17:/Critter-Corner/blog/incognizance-and-linux/</guid>
+                        <guid isPermaLink="false">tag:clockwork-critter.github.io,2025-02-17:/Critter-Corner/blog/incognizance-and-linux/</guid>
                     
 
                     
-                        <link>http://localhost:1313/Critter-Corner/blog/incognizance-and-linux/</link>
+                        <link>https://clockwork-critter.github.io/Critter-Corner/blog/incognizance-and-linux/</link>
                     
 
                     
@@ -120,7 +120,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/Critter-Corner/blog/incognizance-and-linux/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/incognizance-and-linux/" hreflang="en-us" rel="alternate" type="text/html"/>
                     
 
                     
@@ -164,11 +164,11 @@
                     
 
                     
-                        <guid isPermaLink="false">tag:localhost:1313,2024-05-27:/Critter-Corner/blog/windows-vs-linux/</guid>
+                        <guid isPermaLink="false">tag:clockwork-critter.github.io,2024-05-27:/Critter-Corner/blog/windows-vs-linux/</guid>
                     
 
                     
-                        <link>http://localhost:1313/Critter-Corner/blog/windows-vs-linux/</link>
+                        <link>https://clockwork-critter.github.io/Critter-Corner/blog/windows-vs-linux/</link>
                     
 
                     
@@ -176,7 +176,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/Critter-Corner/blog/windows-vs-linux/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/windows-vs-linux/" hreflang="en-us" rel="alternate" type="text/html"/>
                     
 
                     
@@ -220,11 +220,11 @@
                     
 
                     
-                        <guid isPermaLink="false">tag:localhost:1313,2024-04-22:/Critter-Corner/blog/choosing-a-username/</guid>
+                        <guid isPermaLink="false">tag:clockwork-critter.github.io,2024-04-22:/Critter-Corner/blog/choosing-a-username/</guid>
                     
 
                     
-                        <link>http://localhost:1313/Critter-Corner/blog/choosing-a-username/</link>
+                        <link>https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/</link>
                     
 
                     
@@ -232,7 +232,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/Critter-Corner/blog/choosing-a-username/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/choosing-a-username/" hreflang="en-us" rel="alternate" type="text/html"/>
                     
 
                     
@@ -280,11 +280,11 @@ to let me make live changes and see the results instantly. With plenty of simple
                     
 
                     
-                        <guid isPermaLink="false">tag:localhost:1313,2024-04-11:/Critter-Corner/blog/the-making-of-a-website/</guid>
+                        <guid isPermaLink="false">tag:clockwork-critter.github.io,2024-04-11:/Critter-Corner/blog/the-making-of-a-website/</guid>
                     
 
                     
-                        <link>http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/</link>
+                        <link>https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/</link>
                     
 
                     
@@ -292,7 +292,7 @@ to let me make live changes and see the results instantly. With plenty of simple
 
                         
 
-                        <atom:link href="http://localhost:1313/Critter-Corner/blog/the-making-of-a-website/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="https://clockwork-critter.github.io/Critter-Corner/blog/the-making-of-a-website/" hreflang="en-us" rel="alternate" type="text/html"/>
                     
 
                     

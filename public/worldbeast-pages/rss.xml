@@ -51,21 +51,21 @@
         
 
         
-            <link>http://localhost:1313/Critter-Corner/worldbeast-pages/</link>
+            <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/</link>
         
 
         
-            <atom:link href="http://localhost:1313/Critter-Corner/worldbeast-pages/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
+            <atom:link href="https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/rss.xml" hreflang="en-us" rel="self" type="application/rss+xml"/>
         
 
         
             
 
-            <atom:link href="http://localhost:1313/Critter-Corner/worldbeast-pages/" hreflang="en-us" rel="alternate" type="text/html"/>
+            <atom:link href="https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/" hreflang="en-us" rel="alternate" type="text/html"/>
         
             
 
-            <atom:link href="http://localhost:1313/Critter-Corner/worldbeast-pages/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            <atom:link href="https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
         
 
         
@@ -108,11 +108,11 @@
                     
 
                     
-                        <guid isPermaLink="false">tag:localhost:1313,2024-04-25:/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
+                        <guid isPermaLink="false">tag:clockwork-critter.github.io,2024-04-25:/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
                     
 
                     
-                        <link>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
+                        <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
                     
 
                     
@@ -120,7 +120,7 @@
 
                         
 
-                        <atom:link href="http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/" hreflang="en-us" rel="alternate" type="text/html"/>
+                        <atom:link href="https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/" hreflang="en-us" rel="alternate" type="text/html"/>
                     
 
                     
