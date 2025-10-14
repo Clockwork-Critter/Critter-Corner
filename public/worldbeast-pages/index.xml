@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Worldbeast on Critter Corner</title>
-    <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/</link>
+    <link>http://localhost:1313/Critter-Corner/worldbeast-pages/</link>
     <description>Recent content in The Worldbeast on Critter Corner</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <copyright>This work is licensed under CC BY-SA 4.0</copyright>
     <lastBuildDate>Thu, 25 Apr 2024 05:23:16 -0400</lastBuildDate>
-    <atom:link href="https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Critter-Corner/worldbeast-pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cosmology, Mythology, and Axioms</title>
-      <link>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
+      <link>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</link>
       <pubDate>Thu, 25 Apr 2024 05:23:16 -0400</pubDate>
-      <guid>https://clockwork-critter.github.io/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
-      <description>&lt;h2 id=&#34;cosmology&#34;&gt;Cosmology&lt;/h2&gt;&#xA;&lt;p&gt;Before the beginning, there was nothing. In the very center of nothing, was everything. Everything opened its singular eye and beheld its opposite. It was a mighty creature and within itself, it contained every variation of every single possible moment, all at once. It was the mighty Worldbeast. But after eons of staring into the nothingness, its eye became bloodshot and the first crimson flower of madness began to bloom. In its fury eternity clawed at itself, finally tearing its eye asunder and fashioning the first god out of its most desperate wish, that it and every creature would one day die. The first god, the god of death took pity and struck, ending the life of the worldbeast. The nothing seeped into the gash in the corpse and ate every continuum except one. Thus it became that reality collapsed into a singular existence, moving forward an instant at a time.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</guid>
+      <description>Explains the workings of the Worldbeast magic and divinity systems as well as some narrative rules</description>
     </item>
   </channel>
 </rss>
