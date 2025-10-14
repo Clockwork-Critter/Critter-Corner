@@ -5,10 +5,10 @@
     <loc>http://localhost:1313/Critter-Corner/worldbeast-pages/orgin-and-rules/</loc>
     <lastmod>2024-04-25T05:23:16-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Critter-Corner/</loc>
+    <loc>http://localhost:1313/Critter-Corner/blog/</loc>
     <lastmod>2025-02-17T13:09:52-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Critter-Corner/blog/</loc>
+    <loc>http://localhost:1313/Critter-Corner/</loc>
     <lastmod>2025-02-17T13:09:52-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Critter-Corner/blog/incognizance-and-linux/</loc>
@@ -27,6 +27,10 @@
     <lastmod>2024-04-11T08:54:04-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Critter-Corner/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Critter-Corner/friends/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Critter-Corner/friends/__index/</loc>
   </url><url>
     <loc>http://localhost:1313/Critter-Corner/resources/</loc>
   </url><url>
