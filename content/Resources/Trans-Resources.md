@@ -46,6 +46,9 @@ These resources cover a lot of ground. They don't focus on one thing, or they de
 *   [Trans Rescue](https://transrescue.org)
     * An Organization that helps LGBTQ+ people in hostile countries get to safety.
 
+*   [Pronoun Dressing Room](http://www.pronouns.failedslacker.com/)
+    * A website to help people try new pronouns and names.    
+
 ## Medical Resources
 --------------------------------------------------------------------------------------------
 
@@ -240,7 +243,8 @@ Making adjustments to your style can be overwhelming. Here are some resources to
 
 *   [Hair Has No Gender]
     
-    *     * A website for finding trans-friendly hair stylists.
+     * A website for finding trans-friendly hair stylists.
+     
 ## Trans Sex Education Resources
 ------------------------------------------------------------------------------------------------
 
