@@ -241,10 +241,10 @@ Making adjustments to your style can be overwhelming. Here are some resources to
 
     * A guide on how to do makeup from a professional artist covers picking products and fundamental techniques.
 
-*   [Hair Has No Gender]
+*   [Hair Has No Gender](https://hairhasnogender.org/)
     
      * A website for finding trans-friendly hair stylists.
-     
+
 ## Trans Sex Education Resources
 ------------------------------------------------------------------------------------------------
 
