@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Friends on Critter Corner</title>
     <link>https://clockwork-critter.github.io/Critter-Corner/friends/</link>
     <description>Recent content in Friends on Critter Corner</description>
-    <generator>Hugo -- 0.155.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under CC BY-SA 4.0</copyright>
     <atom:link href="https://clockwork-critter.github.io/Critter-Corner/friends/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://clockwork-critter.github.io/Critter-Corner/friends/__index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://clockwork-critter.github.io/Critter-Corner/friends/__index/</guid>
-      <description>Friends to the Critter Corner.</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://pinkro.se/&#34;&gt;Rose&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Rose is a Programmer for Crystal Linux. Her sense of humor, good-natured personality, and willingness to help others uplift any community she is a part of.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://florality.ca/&#34;&gt;Eris&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Polymath, Musician, Programmer, Activist, and Retro Technology Enthusiast. Eris brings knowledge, passion, and a unique sense of humor to any subject she encounters. It is impossible to be friends with Eris for long without learning something.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zoeythewitch.page&#34;&gt;Zoey&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zoey is a warm and kind soul, who feels deeply and inspires others with her sense of humor and comradery. They are an absolute joy to be around.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://heliguy.neocities.org/&#34;&gt;Heli&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
