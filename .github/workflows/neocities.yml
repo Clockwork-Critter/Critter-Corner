@@ -1,60 +1,52 @@
 name: Deploy to neocities
 
-# only run on changes to main. Use main or master depending on whatever your default branch is called.
 on:
   push:
     branches:
       - master
 
-concurrency: # prevent concurrent deploys doing strange things
+concurrency:
   group: deploy-to-neocities
   cancel-in-progress: true
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.146.0
+    
     steps:
       - name: Install Hugo CLI
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+
       - name: Install Dart Sass
         run: sudo snap install dart-sass
-      - name: Checkout
+
+      - name: Checkout Source Code
         uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
+
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+
       - name: Build with Hugo
         env:
-          # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
+        # The --baseURL flag forces Hugo to build relative paths mapped exactly to your Neocities domain
         run: |
           hugo \
             --minify \
-  deploy:
-    runs-on: ubuntu-latest
+            --baseURL "https://crittercorner.space/"
 
-    steps:
-    # The checkout step copies your repo into the action runner. Important!
-    - uses: actions/checkout@v4
-    # Set up any tools and build steps here
-    # This example uses a Node.js toolchain to build a site
-    # If you don't need Node.js to build your site, you can omit this.
-    # When the dist_dir is ready, deploy it to neocities
-    # Here we deploy the folder named `public`
-    - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v3
-      with:
-        api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: false
-        neocities_supporter: true # set this to true if you have a supporter account and want to bypass unsuported files filter.
-        preview_before_deploy: true # print a deployment plan prior to waiting for files to upload.
-        dist_dir: public/
+      - name: Deploy to neocities
+        uses: bcomnes/deploy-to-neocities@v3
+        with:
+          api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: false
+          neocities_supporter: true 
+          preview_before_deploy: true 
+          dist_dir: public/
